@@ -1,0 +1,33 @@
+body {
+  width: 600px;
+  color: red ;
+}
+
+p {
+  font-size: 18px;
+}
+
+main li {
+  font-family: monospace;
+  color: purple;
+}
+
+a {
+  text-decoration: none;
+}
+
+article p {
+  color: brown;
+}
+
+.subheading {
+  background-color: #e0e0e0;
+}
+
+#intro {
+  font-size: 24px;
+}
+
+article ul > li {
+  color: green;
+}

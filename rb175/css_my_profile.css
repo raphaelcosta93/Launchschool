@@ -1,0 +1,17 @@
+body {
+  color: white;
+  background-color: #c3b802;
+  font-family: Arial;
+}
+
+h1 {
+  color: red;
+}
+
+a{
+  color: black;
+}
+
+li {
+  margin-bottom: 10px;
+}
